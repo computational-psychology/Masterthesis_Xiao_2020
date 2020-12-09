@@ -1,0 +1,7 @@
+trl	ref_side	a_test	t_test	rep	rep_id	start_idx	matched_alpha_idx	matched_alpha
+0	0	0.050000	2.000000	0	2	51	8	0.080000
+trl	ref_side	a_test	t_test	rep	rep_id	start_idx	matched_alpha_idx	matched_alpha
+trl	ref_side	a_test	t_test	rep	rep_id	start_idx	matched_alpha_idx	matched_alpha
+0	0	0.050000	2.000000	0	2	1	11	0.110000
+trl	ref_side	a_test	t_test	rep	rep_id	start_idx	matched_alpha_idx	matched_alpha
+0	0	0.050000	2.000000	0	2	10	10	0.100000
